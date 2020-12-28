@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mGbZHBmhremVggcKAz4szVM4FL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -65,25 +69,33 @@
       <screen x="0" y="23" width="1680" height="936" />
     </state>
     <state x="207" y="23" key="#Project_Structure/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126318829" />
-    <state width="1628" height="237" key="GridCell.Tab.0.bottom" timestamp="1609126578452">
-      <screen x="1680" y="61" width="1680" height="1027" />
+    <state x="653" y="351" key="Github.ShareDialog" timestamp="1609127077631">
+      <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="1628" height="237" key="GridCell.Tab.0.bottom/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126302310" />
+    <state x="653" y="351" key="Github.ShareDialog/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609127077631" />
+    <state x="545" y="127" key="Github.UntrackedFilesDialog" timestamp="1609127101582">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state x="545" y="127" key="Github.UntrackedFilesDialog/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609127101582" />
+    <state width="1628" height="237" key="GridCell.Tab.0.bottom" timestamp="1609126966453">
+      <screen x="0" y="23" width="1680" height="936" />
+    </state>
+    <state width="1628" height="237" key="GridCell.Tab.0.bottom/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126966453" />
     <state width="1628" height="237" key="GridCell.Tab.0.bottom/1680.61.1680.1027/0.23.1680.936@1680.61.1680.1027" timestamp="1609126578452" />
-    <state width="1628" height="237" key="GridCell.Tab.0.center" timestamp="1609126578451">
-      <screen x="1680" y="61" width="1680" height="1027" />
+    <state width="1628" height="237" key="GridCell.Tab.0.center" timestamp="1609126966452">
+      <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="1628" height="237" key="GridCell.Tab.0.center/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126302309" />
+    <state width="1628" height="237" key="GridCell.Tab.0.center/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126966452" />
     <state width="1628" height="237" key="GridCell.Tab.0.center/1680.61.1680.1027/0.23.1680.936@1680.61.1680.1027" timestamp="1609126578451" />
-    <state width="1628" height="237" key="GridCell.Tab.0.left" timestamp="1609126578450">
-      <screen x="1680" y="61" width="1680" height="1027" />
+    <state width="1628" height="237" key="GridCell.Tab.0.left" timestamp="1609126966452">
+      <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="1628" height="237" key="GridCell.Tab.0.left/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126302308" />
+    <state width="1628" height="237" key="GridCell.Tab.0.left/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126966452" />
     <state width="1628" height="237" key="GridCell.Tab.0.left/1680.61.1680.1027/0.23.1680.936@1680.61.1680.1027" timestamp="1609126578450" />
-    <state width="1628" height="237" key="GridCell.Tab.0.right" timestamp="1609126578451">
-      <screen x="1680" y="61" width="1680" height="1027" />
+    <state width="1628" height="237" key="GridCell.Tab.0.right" timestamp="1609126966453">
+      <screen x="0" y="23" width="1680" height="936" />
     </state>
-    <state width="1628" height="237" key="GridCell.Tab.0.right/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126302309" />
+    <state width="1628" height="237" key="GridCell.Tab.0.right/1680.61.1680.1027/0.23.1680.936@0.23.1680.936" timestamp="1609126966453" />
     <state width="1628" height="237" key="GridCell.Tab.0.right/1680.61.1680.1027/0.23.1680.936@1680.61.1680.1027" timestamp="1609126578451" />
   </component>
 </project>
